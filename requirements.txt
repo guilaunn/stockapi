@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2
+requests
+beautifulsoup4
+cachetools
+pytest
